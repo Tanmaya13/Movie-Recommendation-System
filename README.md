@@ -1,0 +1,2 @@
+# Movie-Recommendation-System
+Recommender System is a system that seeks to filter preferences according to the user's choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. This Recommender System works by providing the user the top most similar movies of their current watched movie. The concept revolves around Vectorization and Similarity between movies.
