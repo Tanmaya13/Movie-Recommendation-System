@@ -1,2 +1,4 @@
 # Movie-Recommendation-System
+![image](https://user-images.githubusercontent.com/98599230/176836161-f80c29c8-7c87-41e4-9943-3354c2027949.png)
 Recommender System is a system that seeks to filter preferences according to the user's choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. This Recommender System works by providing the user the top most similar movies of their current watched movie. The concept revolves around Vectorization and Similarity between movies.
+Content-Based-Filtering: suggest similar items based on a particular item. This system uses item metadata (genre, director, description, actors, etc.) for movies, to make these recommendations. The general idea behind these recommender systems is that if a person likes a particular movie, she will also like a movie that is similar to it.
