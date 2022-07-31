@@ -6,10 +6,17 @@ Recommender System is a system that seeks to filter preferences according to the
 ## Concept
 The concept revolves around Content-based-Filtering, Text Vectorization and Cosine Similarity between movies.<br/>
 ## Tech Stack
-*Python
-*Jupyter Notebook
-*VS Code
+* Python
+* Jupyter Notebook
+* VS Code
 <br/>
 ## Libraries
+* pandas
+* numpy
+* nltk
+* sklearn
+* streamlit
+* ast
+* pickle
 
 
