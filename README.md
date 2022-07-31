@@ -9,7 +9,6 @@ The concept revolves around Content-based-Filtering, Text Vectorization and Cosi
 * Python
 * Jupyter Notebook
 * VS Code
-<br/>
 ## Libraries
 * pandas
 * numpy
